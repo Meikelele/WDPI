@@ -1,5 +1,4 @@
-# Netflix
-
+# MyFuelPal
  
 
 Briefly introduce your web application here. Provide an overview of its purpose and main features.
